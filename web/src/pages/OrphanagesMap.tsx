@@ -37,7 +37,7 @@ function OrphanagesMap () {
                 </footer>
             </aside>
             <Map
-                center={[-18.6426876, -48.2095145]}
+                center={[-18.8946105, -48.2891456]}
                 zoom={15}
                 style={{ width: '100%', height: '100%' }}
             >{/* 
